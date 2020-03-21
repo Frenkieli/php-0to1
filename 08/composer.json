@@ -1,0 +1,17 @@
+{
+    "name": "donke/08",
+    "authors": [
+        {
+            "name": "Frenkieli",
+            "email": "49364993+Frenkieli@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0.2"
+    },
+    "autoload": {
+        "classmap": [
+            "myapp"
+        ]
+    }
+}

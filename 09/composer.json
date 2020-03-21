@@ -1,0 +1,15 @@
+{
+    "name": "donke/09",
+    "authors": [
+        {
+            "name": "Frenkieli",
+            "email": "49364993+Frenkieli@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "myapp"
+        ]
+    }
+}
